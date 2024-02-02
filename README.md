@@ -44,12 +44,12 @@ Welcome to the CosmoCloud Backend project! This project is a FastAPI-based appli
 5. **Check MongoDB Configuration:**
 
    - Ensure that MongoDB is running on `localhost:27017`.
-   - If not, update the `main.py` file (line 11) with the appropriate `MongoClient` configuration.
+   - If not, update the `main.py` file with the appropriate `MongoClient` configuration.
 
 6. **Database Configuration:**
 
    - Make sure there is no database named "Product" to ensure a smooth experience.
-   - If needed, change the database name in the `main.py` file (line 12).
+   - If needed, change the database name in the `main.py` file.
 
 7. **Run the FastAPI App:**
 
