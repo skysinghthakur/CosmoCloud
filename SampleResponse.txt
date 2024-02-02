@@ -1,0 +1,22 @@
+{
+  "_id": "65bd1debc6b91178e0002cec",
+  "createdOn": "2024-02-02T22:22:59.557566",
+  "items": [
+    {
+      "productId": 2,
+      "boughtQuantity": 1,
+      "totalAmount": 6999
+    },
+    {
+      "productId": 3,
+      "boughtQuantity": 1,
+      "totalAmount": 13990
+    }
+  ],
+  "userAddress": {
+    "city": "city1",
+    "country": "country1",
+    "zipCode": 10092
+  },
+  "totalAmount": 20989
+}

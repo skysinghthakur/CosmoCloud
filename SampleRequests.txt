@@ -1,0 +1,17 @@
+{
+  "items": [
+    {
+      "productId": 2,
+      "boughtQuantity": 1
+    },
+    {
+      "productId": 3,
+      "boughtQuantity": 1
+    }
+  ],
+  "userAddress": {
+    "city": "city1",
+    "country": "country1",
+    "zipCode": 10092
+  }
+}
